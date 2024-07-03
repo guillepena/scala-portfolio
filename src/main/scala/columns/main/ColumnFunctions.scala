@@ -1,5 +1,5 @@
 package eoi.de.examples
-package columns
+package columns.main
 
 import org.apache.spark.sql.Column
 import org.apache.spark.sql.functions._
