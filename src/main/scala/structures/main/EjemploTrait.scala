@@ -1,5 +1,5 @@
 package eoi.de.examples
-package estructuras
+package structures.main
 
 object EjemploTrait extends App {
 
